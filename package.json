@@ -1,0 +1,19 @@
+{
+  "name": "G1-web-scrap",
+  "version": "1.0.0",
+  "description": "Web scrapping do site https://g1.globo.com/ ",
+  "main": "main.js",
+  "scripts": {
+    "start": "main.js"
+  },
+  "keywords": [],
+  "author": "Rodrigo rodrigo.software42@gmail.com",
+  "license": "GNU",
+  "dependencies": {
+    "express": "^4.18.1",
+    "puppeteer": "^14.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
